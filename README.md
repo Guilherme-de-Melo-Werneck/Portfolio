@@ -1,5 +1,5 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# PORTFÓLIO
+https://portfolio-dy6ihuhco-guilherme-de-melo-werneck.vercel.app
 
 # Sobre o projeto
 No meu projeto de portfólio, apresento uma plataforma completa que permite uma imersão aprofundada em minha trajetória profissional. Nele, 
@@ -20,11 +20,11 @@ intacta mesmo após o recarregamento da página.
 # Tecnologias utilizadas
 
 ## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML
+- CSS
+- JAVA SCRIPT
+
+
 
 # Como executar o projeto
 
@@ -32,14 +32,14 @@ intacta mesmo após o recarregamento da página.
 # clonar repositório
 git clone https://github.com/devsuperior/sds1-wmazoni
 
-# entrar na pasta do projeto front end web
-cd front-web
+# clica com botão direito no arquivo index.html
 
-# instalar dependências
-yarn install
+# clica em Reveal in file explorer(Revelar no explorador de arquivos)
 
-# executar o projeto
-yarn start
+# clica com botão direito na pasta index
+
+# clica em abrir com e abre com o navegador que usa
+
 ```
 
 # Autor
