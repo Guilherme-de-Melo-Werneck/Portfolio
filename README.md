@@ -30,7 +30,7 @@ intacta mesmo após o recarregamento da página.
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Guilherme-de-Melo-Werneck/Portfolio.git
 
 # clica com botão direito no arquivo index.html
 
