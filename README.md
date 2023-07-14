@@ -1,0 +1,55 @@
+# PORTFÓLIO
+
+# Sobre o projeto
+No meu projeto de portfólio, apresento uma plataforma completa que permite uma imersão aprofundada em minha trajetória profissional. Nele, 
+você encontrará acesso ao meu currículo, meus principais projetos, bem como minhas redes sociais e informações de contato. Além disso, 
+destaco a funcionalidade de responsividade, adaptando-se perfeitamente a dispositivos desktop, tablet e mobile. O diferencial do site 
+reside também em seu sistema de dark/light mode, o qual permite que o usuário selecione o tema de sua preferência. Dessa forma, a escolha do tema permanece 
+intacta mesmo após o recarregamento da página.
+<br>
+
+## Desktop (light mode)
+![Web](https://lh3.googleusercontent.com/pw/AIL4fc8UPjS00YP8XE8iBncKBb02IrG9k2aMr-CPlqg1bSJiXfOV5A_9g0pEVQ-v9yVQPYps-bIsdcP0TUns5yTrJkmpGMoWj3qmR3E4VqPHZ4PMhcdwP90Wez5rDj5EhsmwAtMEDXivZFCxSo2MAXUS5RgSrbGXW6Rq8ajNHTiuUvw32pTcFJIb5uiSBrHHXrNciZSXkmOEU1F6WzCbtFYcjrypg09BYw82t-T-J9zWzWZgLNHRk7N0lb_nHAO5LyJ9u6qyz1thZPml0VpmZ1LIVauzpIxQT_1JBK3f4BFK4opdO-YU3bw13WGETEm8webPf3wLRfq6y6U4534iSM4SeqB8wzUTUqNexnGhycr8pUykOxNdTWYzXUy_MdkpLiA0DTsy9iWPDcw0JO34EXP6hAoAOcZAVUCtas14ahGYZ2586qu9vxqcZTz3a6fFfMcy2CKbgLfY2H5o299wP3VzDGK4XPl3hKBocD1lwYTIzLaOvmYVXv4m8z8Ps4avfa5UQxlyPbF54GbnZUYfAV3Vd5t97r-FaSUVrPqu13zuk1iABnpDblR1ph42X6W87G0W-4HlXDHydIZ8BfmRrQTu6tjo5pQH2JbWz5MjfwGMBqLBowDjff9Hjb5hs2Xrq0IF0TVHpMx7J_KTTaMBmFxNSpkrE675h8mUebM9YpvMztjyXj1BdflT3OYUbF76UkC5KnydHmi2s6cuD9sA6U9uZL8_IkLWBubPXyIN8br3W_Et3-p-9jwTPPzh8xnnX1EeDxf69vFJ-cEI7ry1d8P9D-wKMnvTk76jv6jCWEA3d0ycrfoTkxtvxZmnD1g_DFryayZ89tS92MxnRaTKpXu7LdlpbdHH0ylNi9CWoYaW-GWZW6IJgNoRkJ5NASZLBX6FeM7pXA1alFj8bOeca0stMQ=w1847-h886-s-no?authuser=0)
+
+<br>
+
+## Desktop (dark mode)
+![Web](https://lh3.googleusercontent.com/pw/AIL4fc_LBdSN_7Y9tnGKO2LVIqZSzmzkgDyE_aZaUDFXqhxclMVL6iKAy0MKcgdvVK5TMba0eg-nP7_rTysURAohedirkq-jtSrEksrxPc5eT4OCjenHPMFOcj5oIPG8r9Hphzk-UIkcYgHAvqqCGdWM1nTac1hGdWH4K1enUKpxcldeVrzgckqwf4qgOYbBh_3H_xdb5hiUpua-AkhwfnVO2n7xrkrlo3aOVTyOAiJmLOl_DpUaqJiVjWral5EvMCK_PGt_u8eMv9JZSfzHn526WRSZlXrSx0wOUrRTn0wjHosHLmprB_Q671Mibj77jDP_r8SZgjghW1tMU_WLBeAeb4QSvhuV1enZD2NXrcLkyFChkuVzSu0j7sCHt6eSYnZDZoZXI8CLRCVVa4nz-FjNyCvzJ8sKkKgL0rsWn7dp0J6uUJ9TbiBDA1ZCFylEUKz4pmnyrs1pokTpZnLUA5eg2x0tBsdF0R4sxOuV_q840Ig-M8lm_WMVQK3PAqitNcdtXxmlFzjmhQ9GnP75Sb38COP22jEu3IYZ73hyACPJtmLTuClvxIqcK7KaBbViBgo_UDKlSvqUGcfGodUW5WsDCUgHD7oTxoqWk696k8nHE2dCMKP-wmxg3U76xoCbtL8GFf5z96T5IzJi0zoaM0ZC3v4snai8yLTyJMTxUMY-ubcaUj_B_WZeEITGVYXlJ-NfeknyR7cvH8XSNkCRRckefX8GUpeAoALevrT6AvqR5LZ4QVMcJkaxaIYIjh7Bh1iI8aBXtIde2IGgaAMo1h0gtfRSrn55eE-C--EjttZZSiSzf9ybA_P6rdTlOP7YJ5_b4o1D451wOTGgXXIq1UWJuRN6-3_4lOw5tH950YXrd8El8-YvcCFmmbhC8YKoE3RoGt3RoBaaKashDJYyvk4W8w=w1817-h890-s-no?authuser=0)
+
+<br>
+
+## Navegação do portfólio
+![Navegação](https://lh3.googleusercontent.com/pw/AIL4fc9nosTB96z48iyEyY4Jb3z12xSczCL-2TbPNhvZHfns6gsxfl2cpErecX11B-gXRZsJSv1VCzZb-xU2QpFUbS4vqOQrPNlPnMRg5XDNFYMmXu_DCjQswQtDoFSKiUsDC0RRl5yGm0jKOqLgJQrESEDIz1hw3YtxVbNPwnMP_UEVXRkd6P2J3_0_KWCJgZh11jGmGHM3YOlCu_3xUum7pMWjwFPAvYp2FUq3BJZhtFgLeiVzwfmoJheljW4PmL8cCGAVCqSDp77L7EHYy6q8UphmTOkSDp_2-t-4-qOiR32V0PtdkX1SSv-9U4CwX0_xUcCIGjGsHAOZXXO12DZcsQMt8ps8an68gW_VYl7kYqyvFe18Qu_p0GKHMMeb-eY844r6QYhNIg5sRmWgpuTYRWVZtIdq0CM-J2ZAJgwn54AOs4SP6zbBD9oWMVeRkjauuk-LPOO33cF4Oi--2PRyfXlraV9Zigcy9xVBSYdZQNxmDIfCSbG9LtzQUnkojCM9krXj97HGcwTutQdvjgGay5kRKmQK93wuYWPuIMh4Egt51watPJOKYGSY5xGHK3Nr_4Vc2nnTFw6dl2KGtf-KZWd3ETmZCVup6vg6QSOl3GIsyHMw83wzcL3S4LqALL96a_09bCqeli96FA919M1YkZ3UO0F4yFeNdcPV8QbmgvDH0j9pVZO8ia5opxZ2pRCpZr2MEAToH7LGKpkdI_-zdt4tJf1co_6j8fBwRMuI8YsazKsl-RlNSYc6iRdPb_nFjzocg1qmTps0lrfJ_8R7hAUce9rlWfSSb9M8qMxz_vcoyvkkDhtlRUwKrYtmcNIc1J4uV9E5Q0sRvQgRyp_AEkJQhQEPqPz2XtBIIIADiHVRgv4B59iGHwU2KCKupkC97Roi9wjnqAJchhwU-ax1tQ=w157-h698-s-no?authuser=0)
+
+<br>
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML
+- CSS
+- JAVA SCRIPT
+
+<br>
+
+# Como executar o projeto
+
+```bash
+# clonar repositório
+git clone https://github.com/Guilherme-de-Melo-Werneck/Portfolio.git
+
+# clica com botão direito no arquivo index.html
+
+# clica em Reveal in file explorer(Revelar no explorador de arquivos)
+
+# clica com botão direito na pasta index
+
+# clica em abrir com e abre com o navegador que usa
+
+```
+
+# Autor
+
+Guilherme de Melo Werneck
+
+https://www.linkedin.com/in/guilherme-werneck-96a276260/
