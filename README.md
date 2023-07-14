@@ -1,4 +1,4 @@
-# PORTFÓLIO
+# PORTFÓLIO :computer:
 
 # Sobre o projeto
 No meu projeto de portfólio, apresento uma plataforma completa que permite uma imersão aprofundada em minha trajetória profissional. Nele, 
