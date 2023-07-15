@@ -47,8 +47,9 @@ git clone https://github.com/Guilherme-de-Melo-Werneck/Portfolio.git
 # clica em abrir com e abre com o navegador que usa
 
 ```
+<br>
 
-# Autor
+# Autor:
 
 Guilherme de Melo Werneck
 
