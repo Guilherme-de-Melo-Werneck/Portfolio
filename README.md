@@ -1,4 +1,5 @@
 # PORTFÓLIO :computer:
+https://portfoli-hcrb1vpx3-guilherme-de-melo-werneck.vercel.app
 
 # Sobre o projeto
 No meu projeto de portfólio, apresento uma plataforma completa que permite uma imersão aprofundada em minha trajetória profissional. Nele, 
